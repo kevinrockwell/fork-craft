@@ -1,0 +1,16 @@
+[
+{
+  "modid": "forkcraft",
+  "name": "Fork Craft",
+  "description": "Edible Forks...what more do you need?",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/kevinrockwell/fork-craft/",
+  "updateUrl": "",
+  "authorList": ["Nerds"],
+  "credits": "Krarl the Crab",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
